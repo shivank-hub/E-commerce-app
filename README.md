@@ -1,4 +1,4 @@
-# demo_sign_in
+# E-commerce app
 
 A new Flutter project.
 
